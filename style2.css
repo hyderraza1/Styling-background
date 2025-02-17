@@ -1,0 +1,14 @@
+body{
+    background-image: url(school\ logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#grad{
+    height: 6000;
+    background-image: linear-gradient(to top right,purple,pink,yellow,red,orange);
+}
+@keyframes y{
+    14% {background-color: red;}
+        5% {background-color: aqua;}
+        12% {background-color: yellow;}
+}
